@@ -1,0 +1,599 @@
+Date,Startup,Industry,Location,Investor,Type,Amount,YearMonth
+2021-04-01,BYJU'S,Education,Bangalore,Innoven Capital,Series F,460000000.0,2021-04
+2021-04-05,Meesho,E-Commerce,Bangalore,SoftBank Vision Fund 2,Series E,300000000.0,2021-04
+2021-04-14,Swiggy,Consumables,Bangalore,"Amansa Holdings, Carmignac, Falcon Edge Capital, Goldman Sachs, Think Investments",Series J,343000000.0,2021-04
+2021-04-07,Groww,Finance,Bangalore,"MC Global Edtech, B Capital, Baron, others",Series D,83000000.0,2021-04
+2021-04-14,Beldara,E-Commerce,Mumbai,Hindustan Media Ventures,Other,7400000.0,2021-04
+2021-03-04,DealShare,E-Commerce,Jaipur,Innoven Capital,Debt,250000000.0,2021-03
+2021-03-31,Uniphore,Software,Outside India,Sorenson Capital Partners,Series D,140000000.0,2021-03
+2021-03-30,Dunzo,E-Commerce,Bangalore,Krishtal Advisors Pte Ltd,Series E,8000000.0,2021-03
+2021-03-30,BYJU'S,Education,Bangalore,"MC Global Edtech, B Capital, Baron, others",Series F,460000000.0,2021-03
+2021-03-23,SkilloVilla,Education,Bangalore,"Titan Capital, others",Seed,300000000.0,2021-03
+2021-03-25,CityMall,E-Commerce,Gurgaon,Accel Partners,Series A,11000000.0,2021-03
+2021-03-26,DotPe,Finance,Gurgaon,PayU,Series A,27500000.0,2021-03
+2021-02-11,Doubtnut,Education,Gurgaon,"SIG Global, Sequoia Capital, WaterBridge Ventures and ON Mauritius",Series B,2500000.0,2021-02
+2021-02-22,Zomato,Healthcare & Hospitality,Gurgaon,"Tiger Global, Kora",Other,250000000.0,2021-02
+2021-02-19,Fingerlix,Healthcare & Hospitality,Mumbai,"Rhodium Trust, Accel Partners and Swiggy",Series C,2747045.2,2021-02
+2021-02-17,Zolve,Finance,Mumbai,Accel Partners and Lightspeed Venture Partners,Seed,15000000.0,2021-02
+2021-02-15,KreditBee,Finance,Bangalore,Azim Premji’s PremjiInvest and South Korea’s Mirae Asset Venture,Series C,75000000.0,2021-02
+2021-02-12,Pepperfry,E-Commerce,Mumbai,InnoVen Capital,Debt,4773958.0,2021-02
+2021-02-12,Grofers,E-Commerce,Gurgaon,SoftBank Vision Fund (SVF),Other,55000000.0,2021-02
+2021-02-09,Nothing,Software,Outside India,GV,Series A,15000000.0,2021-02
+2021-02-09,SplashLearn,Education,Gurgaon,Owl Ventures,Series C,18000000.0,2021-02
+2021-01-15,Digit Insurance,Finance,Bangalore,"A91 Partners, Faering Capital, TVS Capital Funds",Other,18000000.0,2021-01
+2021-01-28,Bombay Shaving Company,Consumables,Delhi,Reckitt Benckiser,Other,6172258.5,2021-01
+2021-01-19,DeHaat,Agriculture,Patna,Prosus Ventures,Series C,30000000.0,2021-01
+2021-01-19,Darwinbox,Software,Mumbai,Salesforce Ventures,Seed,15000000.0,2021-01
+2021-01-18,mfine,Healthcare & Hospitality,Bangalore,Heritas Capital Management,Other,16000000.0,2021-01
+2021-01-18,Udayy,Education,Gurgaon,Sequoia Capital ,Seed,15000000.0,2021-01
+2021-01-11,True Elements,Consumables,Pune,SIDBI Venture Capital,Other,100000000.0,2021-01
+2021-01-13,Saveo,E-Commerce,Bangalore,"Matrix Partners India, RTP Global, others",Seed,4000000.0,2021-01
+2020-12-15,Bira 91,Consumables,Delhi,"Nishant Mittal, Pankaj Chaddah and Shikha Sunil Chandak",Other,1273634.07,2020-12
+2020-12-15,Zenoti,Software,Outside India,Advent International,Series D,160000000.0,2020-12
+2020-12-22,Tax Buddy India,Finance,Mumbai,Zenith Global,Seed,1000000.0,2020-12
+2020-12-15,Delhivery,Logistics,Gurgaon,Steadview Capital ,Secondary Market,25000000.0,2020-12
+2020-12-18,PagarBook,Software,Bangalore,Sequoia Capital ,Series A,15000000.0,2020-12
+2020-11-30,Codingal,Education,Bangalore,"Rebright Partners, Java Capital, and GSF Accelerator",Seed,560000.0,2020-11
+2020-11-30,CRED,Finance,Bangalore,DST Global,Series C,80000000.0,2020-11
+2020-11-29,Bira 91,Consumables,Delhi,"Sofina, Sequoia Capital, Sixth Sense Ventures, Neoplux",Bridge,3000000.0,2020-11
+2020-11-27,Chumbak,Lifestyle & Fashion,Bangalore,Gaja Capital Fund (GCFII-A),Series D,1001047.92,2020-11
+2020-11-25,Cityflo,Logistics,Mumbai,Lightbox Ventures,Series A,7700000.0,2020-11
+2020-11-25,Shipsy,Software,Gurgaon,"Sequoia Capital India’s Surge, Info Edge",Series A,6003806.0,2020-11
+2020-11-25,Unacademy,Education,Bangalore,"Tiger Global Management, Dragoneer Investment Group",Other,100000000.0,2020-11
+2020-11-24,Cashfree,Finance,Bangalore,"Matrix Partners India, SAIF Partners, Ward Ferry Management and Bertelsmann India",Series B,35300000.0,2020-11
+2020-11-30,Credgenics,Finance,Gurgaon,"Venture Capital firm, Accel Partners and DMI Finance",Seed,3500000.0,2020-11
+2020-11-23,Country Delight,Consumables,Gurgaon,Elevation Capital,Series C,25000000.0,2020-11
+2020-10-28,Betterplace,Software,Bangalore,Jungle Ventures,Series B,10000000.0,2020-10
+2020-10-28,FlexiLoans,Finance,Mumbai,Falguni and Sanjay Nayar Family Office,Equity and Debt,20160000.0,2020-10
+2020-10-27,GetVantage,Finance,Mumbai,"Chiratae Ventures, Dream Incubators",Seed,5000000.0,2020-10
+2020-10-27,FreshToHome,E-Commerce,Bangalore,"Corporation of Dubai (ICD), Ascent Capital, DFC, the Allana Group
+",Series C,121000000.0,2020-10
+2020-10-27,Origo,Agriculture,Gurgaon,Northern Arc Capital,Debt,4700000.0,2020-10
+2020-10-27,Origo,Marketing,Mumbai,Sequoia Capital India,Series A,15000000.0,2020-10
+2020-10-15,Treebo Hotels,Healthcare & Hospitality,Bangalore,"Matrix Partners India, SAIF Partners, Ward Ferry Management and Bertelsmann India",Other,6000000.0,2020-10
+2020-10-26,Hubilo,Software,Outside India,Lightspeed Venture Partners,Seed,4500000.0,2020-10
+2020-10-28,CredAble,Finance,Mumbai,Oaks Asset Management and V’Ocean Investment,Other,4500000.0,2020-10
+2020-10-21,Pocket FM,Software,Bangalore,"Tencent, Times Group and Lightspeed India",Series A,5500000.0,2020-10
+2020-08-04,InVideo,Software,Bangalore,Sequoia India,Series A,15000000.0,2020-08
+2020-09-08,BYJU'S,Education,Bangalore,"Silver Lake, Tiger Global, General Atlantic and Owl Ventures
+",Other,500000000.0,2020-09
+2020-09-12,mCaffeine,Lifestyle & Fashion,Mumbai,"Amicus Capital Private Equity I LLP, Amicus Capital Partners India Fund I and RP-SG Venture Fund 1",Series B,3000000.0,2020-09
+2020-09-09,Qshala,Education,Bangalore,Rainmatter Capital,Seed,370000.0,2020-09
+2020-09-02,Winzo,Gaming & Entertainment,Delhi,"Kalaari Capital Partners, IndigoEdge Management Consultancy",Series B,15500000.0,2020-09
+2020-09-09,Hippo Video,Gaming & Entertainment,Outside India,"Alpha Wave Incubation, Exfinity Venture Partners and existing backers. 
+",Series A,4500000.0,2020-09
+2020-09-07,Melorra,E-Commerce,Bangalore,"Shadow Holdings, Lightbox.",Debt,8900000.0,2020-09
+2020-09-07,1mg,E-Commerce,Gurgaon,"Gaja Capital, Tata Capital, Partners Group",Other,100000000.0,2020-09
+2020-08-31,mfine,Healthcare & Hospitality,Bangalore,Caretech Pte Inc,Series B,5400000.0,2020-08
+2020-08-31,Apna,Human Resources,Bangalore,Lightspeed India and Sequoia Capital India,Series A,8000000.0,2020-08
+2020-09-03,Railofy,Logistics,Mumbai,Chiratae Ventures,Seed,950000.0,2020-09
+2020-08-15,Practo,Healthcare & Hospitality,Bangalore,"A1A Company
+",Series F,32000000.0,2020-08
+2020-08-13,Medlife,E-Commerce,Bangalore,Prasid Uno Family Trust and SC Credit Fund,Other,23000000.0,2020-08
+2020-08-13,"HungerBox
+",Consumables,Bangalore,"One97, Sabre Partners Trust, Pratithi Investment Trust, and Srihari Kumar",Series D,1560000.0,2020-08
+2020-08-04,Dunzo,Logistics,Bangalore,Existing Backers,Other,30000000.0,2020-08
+2020-08-11,Terra.do,Education,Outside India,"Stanford Angels and Entrepreneurs (India), BEENEXT Emerging Asia, Rainmatter Capital
+
+",Seed,1400000.0,2020-08
+2020-08-12,Classplus,Education,Noida,Falcon Edge,Other,15000000.0,2020-08
+2020-08-14,Niyo,Finance,Bangalore,Niyo Solutions Inc.,Other,6000000.0,2020-08
+2020-08-10,ZestMoney,Finance,Bangalore,Primrose Hills Ventures,Other,10670000.0,2020-08
+2020-08-07,FreshToHome,E-Commerce,Bangalore,Ascent Capital,Other,16200000.0,2020-08
+2020-08-13,Eduvanz,Finance,Mumbai,"Sequoia India, Unitus",Series A,5000000.0,2020-08
+2020-08-04,DrinkPrime,Consumables,Bangalore,"Sequoia Surge, ON Mauritius",Seed,2880000.0,2020-08
+2020-07-15,Flipkart,E-Commerce,Bangalore,"Walmart Inc
+",Equity and Debt,1200000000.0,2020-07
+2020-07-16,Vedantu,Education,Bangalore,Coatue Management,Series D,100000000.0,2020-07
+2020-07-16,Crio,Education,Bangalore,021 Capital,Seed,934160.0,2020-07
+2020-07-14,goDutch,Finance,Mumbai,"Matrix India,Y Combinator, Global Founders Capital, Soma Capital, and VentureSouq.",Seed,1700000.0,2020-07
+2020-07-13,"Mystifly
+",E-Commerce,Bangalore,"Recruit Co. Ltd.
+
+",Series A,3300000.0,2020-07
+2020-07-09,JetSynthesys,Gaming & Entertainment,Pune,"Adar Poonawalla and Kris Gopalakrishnan.
+",Other,400000.0,2020-07
+2020-07-10,"gigIndia
+",E-Commerce,Pune,Incubate Fund India and Beyond Next Ventures,Seed,974200.0,2020-07
+2020-07-15,PumPumPum,Automobile,Gurgaon,Early Adapters Syndicate,Seed,292800.0,2020-07
+2020-07-14,FLYX,Gaming & Entertainment,Delhi,"Raj Mishra, founder of AIT Global Inc",Seed,200000.0,2020-07
+2020-07-13,Open Appliances Pvt. Ltd.,Software,Bangalore,Unicorn India Ventures,Other,500000.0,2020-07
+2020-06-18,Drishti Technologies,Software,Mumbai,"Sozo Ventures
+",Series B,25000000.0,2020-06
+2020-06-16,Jai Kisan,Finance,Mumbai,Arkam Ventures and NABVENTURES Fund I,Seed,3934941.0,2020-06
+2020-06-15,"LetsTransport
+
+",Logistics,Bangalore,Stride Ventures,Other,1311647.0,2020-06
+2020-06-10,WayCool Foods,Agriculture,Chennai,Indusland Bank,Series C,5500000.0,2020-06
+2020-06-11,Myelin Foundry,Cutting Edge Tech,Bangalore,"Kris Gopalakrishnan’s family office — Pratithi.
+",Seed,1000000.0,2020-06
+2020-06-10,Hapramp,Cutting Edge Tech,Gurgaon,Anand Mahindra,Seed,1000000.0,2020-06
+2020-05-21,leap.club,Software,Gurgaon,"Whiteboard Capital (Sandeep Tandon’s VC fund), FirstCheque, Artha India Ventures, Sweta Rau (Founder, White Ventures), Amrish Rau (CEO Pinelabs, Founder Citrus Pay), Deepak Abbot (Former SVP, Paytm), and Harpreet Singh Grover (Co-founder, Co-Cubes) and others.
+",Seed,340000.0,2020-05
+2020-05-20,"Khatabook
+",Logistics,Bangalore,"B Capital Group, Sequoia India, Partners of DST Global, Tencent, GGV, RTP Global, Hummingbird Ventures, Falcon Edge Capital, Rocketship.vc, Unilever Ventures, Kevin Weil, Alexander Will, Kunal Shah, Kunal Bahl, and Rohit Bansal
+
+
+",Series B,60000000.0,2020-05
+2020-05-19,"Lendingkart
+",Finance,Ahmedabad,"Fullerton Financial Holdings Pte Ltd (FFH) and Bertelsmann India Investments, Sistema Asia Fund and India Quotient. 
+",Series D,42000000.0,2020-05
+2020-05-05,"Classplus
+
+",Education,Noida,"RTP Global, lume Ventures, Sequoia Capital India's Surge, Spiral Ventures, and Strive.",Series A,9000000.0,2020-05
+2020-05-11,Nykaa,E-Commerce,Mumbai,Steadview Capital,Series F,8800000.0,2020-05
+2020-05-13,Magicpin,E-Commerce,Gurgaon,"Lightspeed Venture Partners, along with the participation of Moonstone Investments, WaterBridge Venture, The Bunting Family Private Fund, and Srivatsan Rajan
+",Series C,4000000.0,2020-05
+2020-05-18,LetsTransport,Logistics,Bangalore,InnoVen Capital,Other,1700000.0,2020-05
+2020-04-09,Vedantu,Education,Bangalore,Legend Capital,Series C,12560000.0,2020-04
+2020-04-06,Swiggy,Consumables,Bangalore,"Tencent, Ark Impact, Korea Investment Partners, Samsung Ventures, and Mirae Asset Capital Markets
+",Series A,43000000.0,2020-04
+2020-04-08,"Zupee
+",Gaming & Entertainment,Gurgaon,"Matrix Partners India, Falcon Edge Capital, WestCap Group, Orios Venture Partners and Smile Group
+
+",Series A,8000000.0,2020-04
+2020-04-07,DeHaat,Agriculture,Patna,"Sequoia Capital India, FMO, Omnivore and AgFunder.",Series A,12000000.0,2020-04
+2020-04-15,"BigBasket
+",E-Commerce,Bangalore,Alibaba Group,Debt,50000000.0,2020-04
+2020-04-08,Fingerlix,Consumables,Mumbai,"Accel, Zephyr Peacock, Swiggy, and RB Investments
+",Series C,1800000.0,2020-04
+2020-03-31,"Nykaa
+
+",E-Commerce,Mumbai, Steadview Capital,Series F,13000000.0,2020-03
+2020-04-02,Recko,Finance,Bangalore,Vertex Ventures Southeast Asia and India and Prime Venture Partners,Series A,6000000.0,2020-04
+2020-03-02,Chqbook.com,Finance,Gurgaon,Aavishkaar Capital,Series A,5000000.0,2020-03
+2020-03-06,"Paperboat
+",E-Commerce,Bangalore,"Advent Management, A91 Emerging Fund, and Trifecta Venture.
+
+",Debt,4000000.0,2020-03
+2020-03-12,"FamPay
+",Finance,Bangalore,"Y Combinator, Venture Highway, Sequoia India, and GFC (Global Founders Capital). ",Seed,4700000.0,2020-03
+2020-03-12,MultiLiving,Real Estate,Mumbai,Lodha Ventures,Series A,6000000.0,2020-03
+2020-03-12,"Ola Electric
+",Logistics,Bangalore,Pawan Munjal Family Trust,Series B,1000000.0,2020-03
+2020-02-03,1mg,E-Commerce,Gurgaon,Bill & Melinda Gates Foundation ,Other,10000000.0,2020-02
+2020-01-31,"Adonmo
+",Marketing,Hyderabad,BAce Capital,Seed,3000000.0,2020-01
+2020-01-31,DoubtNut,Education,Gurgaon,Tencent Holdings,Series A,15000000.0,2020-01
+2020-02-03,Embibe,Education,Mumbai,Reliance Industries Limited (RIL),Other,12625020.0,2020-02
+2020-02-10,"FirstCry
+",E-Commerce,Pune,Softbank Vision Fund,Series E,296000000.0,2020-02
+2020-02-10,Pepperfry,E-Commerce,Mumbai,Pidilite Industries,Series F,37000000.0,2020-02
+2020-02-18,MaxWholesale,E-Commerce,Delhi,IAN Fund and Al Falaj Investment Co,Series A,3000000.0,2020-02
+2020-02-06,Dot,Software,Gurgaon,PayU and Fosun RZ Capital,Seed,8000000.0,2020-02
+2020-02-05,WizKlub,Education,Bangalore,Incubate Fund India and Insitor Impact Asia Fund,Seed,1000000.0,2020-02
+2020-02-14,Simsim,E-Commerce,Delhi,Accel Partners,Series B,8000000.0,2020-02
+2020-02-11,Moengage,Marketing,Bangalore,Eight Roads Ventures,Series C,25000000.0,2020-02
+2020-02-11,Chaayos,Consumables,Delhi,"Think Investment, Tiger Global, SAIF Partners, Integrated Capital and Neeraj Arora and Innoven Capital
+
+",Series B,21500000.0,2020-02
+2020-02-19,Unacademy,Education,Bangalore,"General Atlantic, Sequoia Capital India, and Facebook",Series D,110000000.0,2020-02
+2020-01-09,BYJU'S,Education,Bangalore,Tiger Global Management,Other,200000000.0,2020-01
+2020-01-13,Shuttl,Logistics,Gurgaon,Susquehanna Growth Equity,Series C,8048394.0,2020-01
+2020-01-09,Mamaearth,E-Commerce,Bangalore,Sequoia Capital India,Series B,18358860.0,2020-01
+2020-01-02,https://www.wealthbucket.in/,Finance,Delhi,Vinod Khatumal,Seed,3000000.0,2020-01
+2020-01-02,Fashor,Lifestyle & Fashion,Mumbai,Sprout Venture Partners,Seed,1800000.0,2020-01
+2020-01-13,Pando,Logistics,Chennai,Chiratae Ventures,Series A,9000000.0,2020-01
+2020-01-10,Zomato,Healthcare & Hospitality,Gurgaon,Ant Financial,Other,150000000.0,2020-01
+2019-12-12,Ecozen,Software,Pune,Sathguru Catalyzer Advisors,Series A,6000000.0,2019-12
+2019-12-06,CarDekho,E-Commerce,Gurgaon,Ping An Global Voyager Fund,Series D,70000000.0,2019-12
+2019-12-03,Dhruva Space,Aerospace,Bangalore,"Mumbai Angels, Ravikanth Reddy",Seed,50000000.0,2019-12
+2019-12-13,Rivigo,Software,Gurgaon,"SAIF Partners, Spring Canter Investment Ltd.",Series F,20000000.0,2019-12
+2019-12-17,Healthians,Consumables,Bangalore,"Paytm, NPTK, Sabre Partners and Neoplux",Series C,12000000.0,2019-12
+2019-12-16,Licious,E-Commerce,Bangalore,Vertex Growth Fund,Series E,30000000.0,2019-12
+2019-12-16,InCred,Finance,Mumbai,Secret,Debt,5900000.0,2019-12
+2019-12-14,Trell,Gaming & Entertainment,Bangalore,Ruizheng Investment,Seed,2000000.0,2019-12
+2019-12-11,Rein Games,Gaming & Entertainment,Noida,Manipal Education and Medical Group (MEMG),Seed,50000000.0,2019-12
+2019-12-20,Lenskart.com,E-Commerce,Faridabad,SoftBank Vision Fund,Series G,231000000.0,2019-12
+2019-11-13,Freshworks,Software,Outside India,"Sequoia, CapitalG, Accel",Series H,150000000.0,2019-11
+2019-11-14,Misters,Healthcare & Hospitality,Gurgaon,"Sauce.vc, Rainforest Ventures",Series B,486000.0,2019-11
+2019-11-13,Sunstone Eduversity Pvt. Ltd,Education,Gurgaon,"Prime Venture Partners, LetsVenture, PS1 Venture and GlobalLogic co-founder Rajul Garg",Seed,1500000.0,2019-11
+2019-11-18,Healthians,Healthcare & Hospitality,Gurgaon,"DG Daiwa Ventures, DG Incubation",Series B,12000000.0,2019-11
+2019-11-15,Ninjacart,Marketing,Bangalore,Trifecta Capital Advisors,Debt,26000000.0,2019-11
+2019-11-20,Aye Finance ,Finance,Gurgaon,FinTech,Debt,17411265.0,2019-11
+2019-11-12,SuperGaming ,Gaming & Entertainment,Pune,Dream Incubator,Seed,1300000.0,2019-11
+2019-11-20,Clumio,Software,Outside India,"Altimeter Capital, Sutter Hill Ventures",Series C,135000000.0,2019-11
+2019-11-11,eBikeGo,Logistics,Amritsar,Startup Buddy,Seed,300000.0,2019-11
+2019-11-19,Digital Mall Asia,E-Commerce,Delhi,Amour Infrastructure,Seed,220000000.0,2019-11
+2019-11-18,Medikabazaar,Healthcare & Hospitality,Mumbai,"Ackermans & van Haaren, HealthQuad, Rebright Partners, Toppan Printing",Series B,15800000.0,2019-11
+2019-11-15,Vogo Automotive,Logistics,Bangalore,"Matrix Partners, Stellaris Venture Partners, Kalaari Capital",Series B,283000000.0,2019-11
+2019-11-19,Furtados School of Music,Education,Outside India, IAN Fund and DSG Consumer Partners,Other,200000000.0,2019-11
+2019-11-25,Paytm,Finance,Noida,Vijay Shekhar Sharma,Other,1000000000.0,2019-11
+2019-10-04,Dunzo,Marketing,Bangalore,Lightbox,Series D,45000000.0,2019-10
+2019-10-02,Udaan,Logistics,Bangalore,"Altimeter Capital, DST Global",Series D,585000000.0,2019-10
+2019-09-05,FPL Technologies,Finance,Pune,"Matrix Partners India, Sequoia India",Seed,4500000.0,2019-09
+2019-09-04,Cashflo,Finance,Mumbai,SAIF Partners,Series A,3300000.0,2019-09
+2019-09-04,Digital F5,Marketing,Mumbai,TIW Private Equity,Other,6000000.0,2019-09
+2019-09-04,3rdFlix,Software,Hyderabad,Exfinity Venture Partners,Seed,5000000.0,2019-09
+2019-09-04,75F,Cutting Edge Tech,Outside India,Breakthrough Energy Ventures,Series A,18000000.0,2019-09
+2019-09-04,Myelin Foundry,Software,Bangalore,Endiya Partners,Seed,1000000.0,2019-09
+2019-09-04,Atomberg Technology,Software,Mumbai,A91 Partners,Series A,10000000.0,2019-09
+2019-09-04,GOQii,Healthcare & Hospitality,Outside India,Bennett Coleman and Company Ltd (BCCL),Series C,450000000.0,2019-09
+2019-09-03,Vyapar App,Finance,Bangalore,"India Quotient, Axilor Ventures",Series A,5000000.0,2019-09
+2019-08-01,CarDekho,E-Commerce,Gurgaon,SC GG India Mobility Holdings LLC,Series C,20000000.0,2019-08
+2019-08-01,Progcap,Finance,Delhi,Sequoia India,Series A,5000000.0,2019-08
+2019-08-01,MyPetrolPump,Retail,Bangalore,Secret,Seed,1600000.0,2019-08
+2019-08-01,Alteria Capital,Finance,Mumbai,"Azim Premji, Binny Bansal",Other,140000000.0,2019-08
+2019-08-01,Pine Labs,Software,Noida,Pine Labs Pte Ltd,Other,38080000.0,2019-08
+2019-08-12,Meesho,E-Commerce,Bangalore,Naspers,Series D,125000000.0,2019-08
+2019-08-13,Cars24,E-Commerce,Gurgaon,MS Dhoni,Series D,11000000.0,2019-08
+2019-08-13,Uniphore,Software,Outside India,March Capital Partners,Series C,51000000.0,2019-08
+2019-08-23,Zendrive,Automobile,Outside India,XL Innovate,Series B,37000000.0,2019-08
+2019-08-23,Lo! Foods,Consumables,Bangalore,"Rashmi Daga (founder, FreshMenu), Raveen Sastry (co-founder, Myntra) and Mitesh Shah (finance chief, BookMyShow)",Seed,500000.0,2019-08
+2019-08-23,Tala,Finance,Outside India,RPS Ventures,Series D,110000000.0,2019-08
+2019-08-22,INDwealth,Finance,Gurgaon,Tiger Global Management,Other,15000000.0,2019-08
+2019-08-21,HungerBox,Consumables,Bangalore,One97 Communications Ltd.,Series C,6590000.0,2019-08
+2019-08-23,AdmitKard,Education,Noida,Growth DNA,Seed,1000000.0,2019-08
+2019-08-19,Grofers,E-Commerce,Gurgaon,Softbank Vision Fund,Series F,70000000.0,2019-08
+2019-08-27,Rapido Bike Taxi,Logistics,Bangalore,Westbridge Capital,Series B,3900000000.0,2019-08
+2019-07-02,RenewBuy,Finance,Gurgaon,"Lok Capital, IIFL Wealth",Series B,19000000.0,2019-07
+2019-07-02,Atlan,Software,Outside India,WaterBridge Ventures,Seed,2500000.0,2019-07
+2019-07-01,WizCounsel,Compliance,Delhi,Kapil Dev,Seed,145000.0,2019-07
+2019-07-03,Ola Cabs,Logistics,Bangalore,"DIG Investment Ab, Deshe Holdings, Samih Toukan and Hussam Khoury",Series J,1000000.0,2019-07
+2019-07-01,Uniphore,Cutting Edge Tech,Outside India,March Capital Partners,Series C,38080000.0,2019-07
+2019-07-04,Daalchini Technologies,Consumables,Delhi,Artha Venture,Seed,500000.0,2019-07
+2019-07-10,BYJU'S,Education,Bangalore,Qatar Investment Authority,Other,150000000.0,2019-07
+2019-07-11,Moglix,E-Commerce,Outside India,"Composite Capital Management, Sequoia Capital India, Tiger Global Management",Series D,60000000.0,2019-07
+2019-07-10,Ezyhaul,Cutting Edge Tech,Outside India,Undisclosed,Series B,16000000.0,2019-07
+2019-07-10,Indus OS,Cutting Edge Tech,Mumbai,Ventureast,Series B,5750000.0,2019-07
+2019-07-10,HealthAssure,Healthcare & Hospitality,Mumbai,Blume Ventures,Series A,2500000.0,2019-07
+2019-07-09,House of Msasaba,Lifestyle & Fashion,Mumbai,Binny Bansal,Series A,1000000.0,2019-07
+2019-07-08,Board Infinity,Education,Mumbai,Multiple Angel Investors,Seed,319605.0,2019-07
+2019-06-05,NoBroker,E-Commerce,Bangalore,General Atlantic,Series C,51000000.0,2019-06
+2019-06-04,Bira91,Consumables,Delhi,Anicut Capital,Debt,10000000.0,2019-06
+2019-06-03,FabHotels,E-Commerce,Gurgaon,"Goldman Sachs, Accel Partners and Qualcomm",Other,4889975.54,2019-06
+2019-06-03,Avail Finance,Finance,Bangalore,Matrix Partners,Series A,9000000.0,2019-06
+2019-06-04,BharatPe,Finance,Delhi,Insight Partners,Series B,75000000.0,2019-06
+2019-06-04,Recykal,Energy & Waste Management,Hyderabad,"Triton Investment Advisors, Pidilite Industries director Ajay Parekh ",Seed,26000000.0,2019-06
+2019-06-03,Agara Labs,Cutting Edge Tech,Bangalore,Blume Ventures and RTP Global,Seed,2500000.0,2019-06
+2019-06-06,Sistema.bio,Agriculture,Outside India,"Shell Foundation, DILA CAPITAL, Engie RDE Fund, EcoEnterprise Fund, EDFIMC (ElectriFI), Endeavor Catalyst Fund, CoCapital, Triodos, Alpha Mundi, and Lendahand",Other,2739034.68,2019-06
+2019-06-06,Chakr Innovation,Energy & Waste Management,Delhi,IAN Fund,Series A,26000000.0,2019-06
+2019-06-06,Pratilipi,Gaming & Entertainment,Bangalore,Qiming Venture Partners ,Series B,15109500.0,2019-06
+2019-06-10,Bolo App,Gaming & Entertainment,Bangalore,Nexus Venture Partners,Seed,430200.0,2019-06
+2019-06-10,OkCredit,Finance,Haryana,Tiger Global Management,Series A,15500000.0,2019-06
+2019-06-06,Biz2Credit,Finance,Outside India,WestBridge Capital,Series B,52000000.0,2019-06
+2019-06-08,Vogo Automotive Pvt. Ltd.,Logistics,Bangalore,Alteria Capital,Debt,3584000.0,2019-06
+2019-06-04,Leegality,Software,Bangalore,Mumbai Angels,Series A,3400000.0,2019-06
+2019-05-06,Saahas Zero Waste ,Energy & Waste Management,Bangalore,C4D Partners,Other,868600.0,2019-05
+2019-05-01,BlackBuck ,Logistics,Bangalore,"Goldman Sachs Investment Partners and Silicon Valley-based Accel, Wellington, Sequoia Capital, B Capital, LightStreet, Sands Capital and International Finance Corporation,",Series D,150000000.0,2019-05
+2019-05-02,Zenoti ,Software,Hyderabad,Tiger Global Management,Series C,50000000.0,2019-05
+2019-05-28,Ather Energy,Automobile,Bangalore,Sachin Bansal,Series C,51000000.0,2019-05
+2019-05-28,FreshVnF,Agriculture,Mumbai,Equanimity Ventures,Seed,140000000.0,2019-05
+2019-05-30,GlowRoad,E-Commerce,Bangalore,"Korea Investment Partners, Vertex Ventures",Series B,11500000.0,2019-05
+2019-05-31,Bira91,Consumables,Delhi,Sixth Sense Ventures,Series B,5600000.0,2019-05
+2019-04-12,Medlife,E-Commerce,Bangalore,Prasid Uno Family Trust,Other,17000000.0,2019-04
+2019-04-10,Kabadiwala,E-Commerce,Bhopal,"Unilever, Beehive Capital Advisor, ABCOM Investments, Parekh Marine Transport, ",Other,430665.0,2019-04
+2019-04-13,Tripoto,Gaming & Entertainment,Delhi,"Orchid India, Hornbill Orchid India Fund, Chiratae Ventures (formerly IDG Ventures), 3one4 Capital, Lasmer NV",Series B,3591375.0,2019-04
+2019-04-12,Azah,Healthcare & Hospitality,Gurgaon,Unnamed angel investors,Seed,200000.0,2019-04
+2019-04-11,Setu,Finance,Bangalore,Lightspeed India Partners,Seed,3500000.0,2019-04
+2019-04-10,Toppr,Education,Mumbai,Milestone ,Debt,6320820.0,2019-04
+2019-04-10,Craftsvilla,E-Commerce,Mumbai,Supera Pte Ltd,Debt,2443495.0,2019-04
+2019-04-10,Unacademy,Education,Bangalore,Kalyan Krishnamurthy,Seed,307000.0,2019-04
+2019-04-11,CleverTap,Software,Mumbai,"Sequoia India, Tiger Global Management, Accel Partners",Series B,26000000.0,2019-04
+2019-04-19,My Healthcare,E-Commerce,Bangalore,Sixth Sense Ventures,Series A,3000000.0,2019-04
+2019-04-19,KrazyBee,E-Commerce,Bangalore,"BAC Acquisitions, Unifi AIF, BRD Securities, Northern R Capital",Debt,14342000.0,2019-04
+2019-04-17,Shuttl,Logistics,Gurgaon,New Atlantic Ventures,Other,5000000.0,2019-04
+2019-04-17,Increff,Software,Bangalore,"021 Capita, Binny Bansal",Series A,3000000.0,2019-04
+2019-02-08,Zilingo,E-Commerce,Outside India,"Sequoia Capital and Temasek Holdings, EDBI, Burda Principal Investments, and Sofina",Series D,226000000.0,2019-02
+2019-02-13,NanoClean Global,Cutting Edge Tech,Delhi,"LetsVenture, PitchRight Venture, 91SpringBoard, AL Nour International Holdings and Mark V Investments",Series A,600000.0,2019-02
+2018-02-14,OyoRooms,Healthcare & Hospitality,Gurgaon,DiDi Chuxing,Other,100000000.0,2018-02
+2019-01-04,Vyome Therapeutics Inc. ,Healthcare & Hospitality,Outside India,"Iron Pillar, Perceptive Advisors, Romulus Capital and Kalaari Capital",Series D,22000000.0,2019-01
+2019-01-04,Samunnati Financial Intermediation & Services Pvt. Ltd,Finance,Chennai,"MASSIF, a Dutch government fund",Debt,5000000.0,2019-01
+2018-12-04,Manch,Gaming & Entertainment,Delhi, Stellaris Venture Partners ,Seed,700000.0,2018-12
+2018-12-02, Guiddoo ,Logistics,Mumbai,Individual Investors,Seed,800000.0,2018-12
+2018-12-02,Career Anna ,Education,Gurgaon,Individual Investors,Seed,572000.0,2018-12
+2018-12-04,Nagpur Wholesale,E-Commerce,Nagpur,Omphalos Ventures India LLP,Seed,143000.0,2018-12
+2018-12-06,ShopKirana,Logistics,Indore," Info Edge, AET Fund, Akatsuki and Incubate Fund from Japan and Better Capital AngelList syndicate.",Seed,2000000.0,2018-12
+2018-12-06,BuildSupply,E-Commerce,Gurgaon,"Venture Highway, GREE Ventures, Space Matrix, Individual Investors",Series A,3500000.0,2018-12
+2018-11-03,Veritas Finance Ltd.,Finance,Chennai,"Norwest Venture Partners, CDC Group, the UK’s Development Finance Institution and P Surendra Pai",Series D,27799000.0,2018-11
+2018-11-06,Meesho,E-Commerce,Bangalore,"Shunwei Capital, DST Partners and RPS Ventures",Series C,50000000.0,2018-11
+2018-11-08,Mobile Premier League,Gaming & Entertainment,Bangalore,Undisclosed,Series A,500000.0,2018-11
+2018-11-08,A&R Bon Vivants,Consumables,Jaipur,"RB Investments, Singapore",Other,1000000.0,2018-11
+2018-11-12,Blackbuck,Consumables,Bangalore,Tiger Global,Series A,1000000.0,2018-11
+2018-11-12,MilkBAsket,Consumables,Delhi,Mayfield Fund,Series B,1300000.0,2018-11
+2018-11-13,DriveU,Logistics,Bangalore,Stevens Creek Ventures,Equity and Debt,1000000.0,2018-11
+2018-11-14,CleanseCar,Software,Bangalore,Venture Catalysts,Seed,500000.0,2018-11
+2018-11-19,Automation Anywhere,Cutting Edge Tech,Outside India,SoftBank Vision Fund,Series B,300000000.0,2018-11
+2018-11-20,HealthifyMe,Healthcare & Hospitality,Bangalore,"Sistema Asia Fund, VC Samsung NEXT, Chiratae Ventures, Inventus Capital, Blume Ventures and Innoven Capital.",Series B,6000000.0,2018-11
+2018-11-21,Genius Corner,Education,Noida,Individual investors ,Seed,278000.0,2018-11
+2018-11-22,Aavishkaar-Intellecap Group,Finance,Mumbai,Teachers Insurance and Annuity Association (TIAA),Other,31000000.0,2018-11
+2018-11-23,Signzy,Finance,Bangalore,"Stellaris Venture Partners and Kalaari Capital, Rajan Anandan from Google, Dilip Khandwelwal from SAP Labs India, and Amrish Rau from PayU India",Series A,3400000.0,2018-11
+2018-11-24,Engineer.ai ,Software,Outside India,"Lakestar and Jungle Ventures, Softbank’s DeepCore.",Series A,29500000.0,2018-11
+2018-11-25, InCred Finance,Finance,Bangalore,"Paragon Partners, Individual Investors",Other,42000000.0,2018-11
+2018-11-25, Roposo,Gaming & Entertainment,Delhi,Bertelsmann India Investments ,Series B,1700000.0,2018-11
+2018-10-02,Origo Commodities India Pvt. Ltd,Logistics,Hyderabad,"Cooperative Oikocredit, Caspian and Hivos-Triodos Fund ",Seed,11000000.0,2018-10
+2018-10-04,Grover Zampa,Consumables,Mumbai,Ravi Viswanathan,Other,8200000.0,2018-10
+2018-10-05,Droom,Automobile,Gurgaon,ZigExN,Series E,3000000.0,2018-10
+2018-10-11,Innov8,Real Estate,Delhi,Credence Family Office,Seed,4000000.0,2018-10
+2018-10-12,Blackbuck,Logistics,Bangalore,Sequoia Capital India,Other,14680000.0,2018-10
+2018-10-12,LetsTransport,Logistics,Bangalore,Fosun International,Series C,12000000.0,2018-10
+2018-09-01,Netmeds,Software,Chennai,"Sistema Asia Fund, Sistema JSFC and Tanncam Investment",Other,35000000.0,2018-09
+2018-09-03,Udaan,Logistics,Bangalore,DST Global and Lightspeed Venture Partners’ global fund.,Other,225000000.0,2018-09
+2018-09-03,Daily hunt,Software,Bangalore,Falcon Edge,Other,6390000.0,2018-09
+2018-09-04,3HCare,Healthcare & Hospitality,Delhi,Secret,Seed,1000000.0,2018-09
+2018-09-05,Nykaa,Software,Mumbai,Lighthouse,Other,157200000.0,2018-09
+2018-09-06,Dream11,Software,Mumbai,"Tencent, Kalaari Capital and Private equity firm Multiples Alternate Asset Management",Other,100000000.0,2018-09
+2018-09-10,MamaEarth,Healthcare & Hospitality,Gurgaon,Stellaris Ventures & Others,Other,4000000.0,2018-09
+2018-09-11,AutoGrid,Software,Bangalore,"CLP Holdings Group, Innogy, Ørstead, and Tenaska",Other,32000000.0,2018-09
+2018-09-11,Pharmeasy,Software,Mumbai,InnoVen Capital,Debt,5500000.0,2018-09
+2018-09-11,Upwards,Finance,Mumbai,"Shunwei Capital,Quotient, Mayfield & Others",Other,5000000.0,2018-09
+2018-09-12,Kissht,Finance,Mumbai,"Vertex Ventures Southeast Asia (SEA) and India and Sistema Asia Fund, Fosun RZ Capital, Ventureast, and Endiya Partners.
+
+",Other,30000000.0,2018-09
+2018-08-01,dishq,Consumables,Bangalore,"Farm To Fork, Arts Alliance, The Syndicate Fund, Sven Hensen, Zeroth and Artesian Venture Partners ",Seed,400000.0,2018-08
+2018-08-02,Samosa Labs,Software,Hyderabad,Xiaomi and Sequoia Capital India,Other,7000000.0,2018-08
+2018-08-03,ZiffyHomes,Software,Gurgaon,Y Combinator,Other,120000.0,2018-08
+2018-08-07,My OmNamo,Software,Mumbai,Secret,Seed,1000000.0,2018-08
+2018-08-07,ShopX,Software,Bangalore,Fung Strategic Holdings,Other,35000000.0,2018-08
+2018-08-07,MakeMyTrip,Software,Gurgaon,MakeMyTrip Limited,Other,10000000.0,2018-08
+2018-08-08,Hansel io,Software,Bangalore,Vertex Ventures,Seed,4000000.0,2018-08
+2018-08-08,Metro Bikes,Software,Bangalore,"Sequoia Capital India Advisors, Accel Partners and G Raghunandan",Other,12200000.0,2018-08
+2018-08-08,Phone Pe,Software,Bangalore,Flipkart,Other,66000000.0,2018-08
+2018-08-09,quizizz,Education,Bangalore,"Nexus Venture Partners, Prime Venture Partners and Others",Seed,3000000.0,2018-08
+2018-08-09,Happy EMI,Finance,Bangalore,AJ Ventures and Jain International Trade Organisation (JITO),Seed,1000000.0,2018-08
+2018-08-13,Inthree,Software,Chennai,"Ventureast, Orios Venture Partners and the IAN Fund",Seed,4000000.0,2018-08
+2018-08-13,Observe AI,Software,Bangalore,"Nexus Venture Partners, MGV, Liquid 2 Ventures, Hack VC, Emergent Ventures and Y Combinator",Other,8000000.0,2018-08
+2018-08-16,Enakshi,Software,Ahmedabad,Secret,Seed,114811.0,2018-08
+2018-08-17,EazyDiner,Software,Gurgaon,Denlow Investment Trust and Beenext,Other,5850000.0,2018-08
+2018-08-20,Finzy,Finance,Bangalore,Secret,Seed,1000000.0,2018-08
+2018-08-20,RawPressery,Software,Mumbai,Alteria Capital,Debt,4800000.0,2018-08
+2018-08-22,Pi Ventures,Software,Bangalore,CDC Group plc ,Other,6000000.0,2018-08
+2018-08-22,Revv,Software,Gurgaon,"Hyundai, Edelweiss and Beenext, Dream Incubator, Sunjay Kapoor and Telama Investment",Other,14270000.0,2018-08
+2018-08-26,ZestMoney,Software,Bangalore,"Xiaomi,PayU, Ribbit Capital and Omidyar Network ",Other,13400000.0,2018-08
+2018-08-26,Shubh Loans,Finance,Bangalore,"Saama Capital, SRI Capital, Beenext, and Pravega Ventures",Other,4200000.0,2018-08
+2018-08-27,MyUpchar,Healthcare & Hospitality,Delhi,"Nexus Venture Partners, Omidyar Network and Shunwei Capital",Other,5000000.0,2018-08
+2018-08-28,Narvar,Software,Bangalore,Accel (formerly known as Accel Partners),Other,3000000.0,2018-08
+2018-08-30,True North,Finance,Mumbai,Secret,Other,600000000.0,2018-08
+2018-07-02,Biryani By Kilo,Software,Gurgaon,Ajay Relan and Vinay Mittal,Seed,1000000.0,2018-07
+2018-07-04,Anchanto,Software,Pune,MDI Ventures & Telkom Indonesia,Other,4000000.0,2018-07
+2018-07-06,PolicyBazaar,Software,Gurgaon,Info Edge (India) Ltd and Temasek,Other,27700000.0,2018-07
+2018-07-09,zippserv,Software,Bangalore,Info Edge (India) Ltd,Seed,440000.0,2018-07
+2018-07-09,Groww,Software,Bangalore,"Insignia Ventures Partners, Lightbridge Partners & Kairos",Seed,1100000.0,2018-07
+2018-07-10,Avenue Growth,Software,Gurgaon,"Avtar Monga, chief operating office at IDFC Bank, Aditya Malik & Others",Seed,437000.0,2018-07
+2018-07-10,Kinara Capital,Finance,Bangalore,ResponsAbility,Other,5000000.0,2018-07
+2018-07-10,Shop 101,Software,Mumbai,"Stellaris Venture Partners, Vy Capital, Raghunandan G, and Ramakant Sharma ",Other,5000000.0,2018-07
+2018-07-11,Sambandh,Software,Rourkela,Base of Pyramid Asia (BOPA) Pte Ltd,Other,2500000.0,2018-07
+2018-07-12,19th mile,Software,Gurgaon,"Rishi Vasudev, Excelsior Investments, Ritesh Vohra, Praveer Kumar, Prashant Gupta and Others",Seed,180000.0,2018-07
+2018-07-12,5th Vital,Healthcare & Hospitality,Bangalore,Brand Capital and Others,Seed,500000.0,2018-07
+2018-07-13,MEngage,Healthcare & Hospitality,Jaipur,"Siddharth Agarwal, Mahavir Sharma, Amit Singal, 100 Co-founders Lab and others.",Seed,175000.0,2018-07
+2018-07-17,Ofbusiness,Finance,Gurgaon,"Creation Investments, Falcon Edge, Matrix Partners India and Zodius Capital ",Other,29000000.0,2018-07
+2018-07-17,Cars24,Software,Gurgaon,"Kingsway FCI Fund, KCK Global & Others",Other,49700000.0,2018-07
+2018-07-18,The Ken,Software,Bangalore,Omidyar Network & Others,Seed,1500000.0,2018-07
+2018-07-19,Book My Show,Software,Mumbai,"TPG Growth, The Rise Fund & Others",Other,100000000.0,2018-07
+2018-07-20,HousingMan,Software,Bangalore,Secret,Seed,1500000.0,2018-07
+2018-07-21,PaySense,Software,Mumbai,PayU & Others,Other,18000000.0,2018-07
+2018-07-23,VTION,Software,Gurgaon,"AngelList, Rahul Khanna, Rajeev Arora and Ram Ramsundar.",Seed,280000.0,2018-07
+2018-07-23,Log9 Materials,Software,Bangalore,"Metaform Ventures, Hemant Luthra, Micro venture capital firm GEMS Partners and Others",Seed,436000.0,2018-07
+2018-07-24,kidovators,Education,Bangalore,Gray Matters,Seed,180000.0,2018-07
+2018-07-24,Digit,Software,Pune,Fairfax,Other,45000000.0,2018-07
+2018-07-25,Black Soil,Finance,Mumbai,"Allcargo Logistics, Navneet Education and Mahavir Agency",Other,17000000.0,2018-07
+2018-07-25,Trell,Software,Bangalore,"BeeNext , WEH Ventures and Sprout Ventures",Seed,1250000.0,2018-07
+2018-07-25,iqlect,Software,Bangalore,Ventureast and Exfinity,Seed,2500000.0,2018-07
+2018-07-26,Entropik,Software,Bangalore,"Bharat Innovation, IDFC-Parampara Capital, Arthavida Ventures, Jitendra Gupta & Others",Seed,1100000.0,2018-07
+2018-07-26,TheCapitalNet,Finance,Hyderabad,Lindwall Family Investments LLC (LFI),Other,500000.0,2018-07
+2018-07-30,Shuttl,Software,Gurgaon,Amazon Alexa Fund & Dentsu Ventures,Other,11000000.0,2018-07
+2018-07-30,Cure Fit,Software,Bangalore,"IDG Ventures, Accel Partners, Kalaari Capital and Others",Other,120000000.0,2018-07
+2018-07-31,Five Star Group,Finance,Chennai,"TPG, Norwest Venture Partners, Sequoia Capital & Matrix Partners",Other,100000000.0,2018-07
+2018-07-31,Healthsignz,Healthcare & Hospitality,Hyderabad,Kantilal Patel,Seed,5000000.0,2018-07
+2018-10-02,Origo Commodities India Pvt. Ltd,Logistics,Hyderabad,"Cooperative Oikocredit, Caspian and Hivos-Triodos Fund ",Seed,11000000.0,2018-10
+2018-10-04,Grover Zampa,Consumables,Mumbai,Ravi Viswanathan,Other,8200000.0,2018-10
+2018-10-05,Droom,Automobile,Gurgaon,ZigExN,Series E,3000000.0,2018-10
+2018-10-11,Innov8,Real Estate,Delhi,Credence Family Office,Seed,4000000.0,2018-10
+2018-10-12,Blackbuck,Logistics,Bangalore,Sequoia Capital India,Other,14680000.0,2018-10
+2018-10-12,LetsTransport,Logistics,Bangalore,Fosun International,Series C,12000000.0,2018-10
+2018-09-01,Netmeds,Software,Chennai,"Sistema Asia Fund, Sistema JSFC and Tanncam Investment",Other,35000000.0,2018-09
+2018-09-03,Udaan,Logistics,Bangalore,DST Global and Lightspeed Venture Partners’ global fund.,Other,225000000.0,2018-09
+2018-09-03,Daily hunt,Software,Bangalore,Falcon Edge,Other,6390000.0,2018-09
+2018-09-04,3HCare,Healthcare & Hospitality,Delhi,Secret,Seed,1000000.0,2018-09
+2018-09-05,Nykaa,Software,Mumbai,Lighthouse,Other,157200000.0,2018-09
+2018-09-06,Dream11,Software,Mumbai,"Tencent, Kalaari Capital and Private equity firm Multiples Alternate Asset Management",Other,100000000.0,2018-09
+2018-09-10,MamaEarth,Healthcare & Hospitality,Gurgaon,Stellaris Ventures & Others,Other,4000000.0,2018-09
+2018-09-11,AutoGrid,Software,Bangalore,"CLP Holdings Group, Innogy, Ørstead, and Tenaska",Other,32000000.0,2018-09
+2018-09-11,Pharmeasy,Software,Mumbai,InnoVen Capital,Debt,5500000.0,2018-09
+2018-09-11,Upwards,Finance,Mumbai,"Shunwei Capital,Quotient, Mayfield & Others",Other,5000000.0,2018-09
+2018-09-12,Kissht,Finance,Mumbai,"Vertex Ventures Southeast Asia (SEA) and India and Sistema Asia Fund, Fosun RZ Capital, Ventureast, and Endiya Partners.
+
+",Other,30000000.0,2018-09
+2018-08-01,dishq,Consumables,Bangalore,"Farm To Fork, Arts Alliance, The Syndicate Fund, Sven Hensen, Zeroth and Artesian Venture Partners ",Seed,400000.0,2018-08
+2018-08-02,Samosa Labs,Software,Hyderabad,Xiaomi and Sequoia Capital India,Other,7000000.0,2018-08
+2018-08-03,ZiffyHomes,Software,Gurgaon,Y Combinator,Other,120000.0,2018-08
+2018-08-07,My OmNamo,Software,Mumbai,Secret,Seed,1000000.0,2018-08
+2018-08-07,ShopX,Software,Bangalore,Fung Strategic Holdings,Other,35000000.0,2018-08
+2018-08-07,MakeMyTrip,Software,Gurgaon,MakeMyTrip Limited,Other,10000000.0,2018-08
+2018-08-08,Hansel io,Software,Bangalore,Vertex Ventures,Seed,4000000.0,2018-08
+2018-08-08,Metro Bikes,Software,Bangalore,"Sequoia Capital India Advisors, Accel Partners and G Raghunandan",Other,12200000.0,2018-08
+2018-08-08,Phone Pe,Software,Bangalore,Flipkart,Other,66000000.0,2018-08
+2018-08-09,quizizz,Education,Bangalore,"Nexus Venture Partners, Prime Venture Partners and Others",Seed,3000000.0,2018-08
+2018-08-09,Happy EMI,Finance,Bangalore,AJ Ventures and Jain International Trade Organisation (JITO),Seed,1000000.0,2018-08
+2018-08-13,Inthree,Software,Chennai,"Ventureast, Orios Venture Partners and the IAN Fund",Seed,4000000.0,2018-08
+2018-08-13,Observe AI,Software,Bangalore,"Nexus Venture Partners, MGV, Liquid 2 Ventures, Hack VC, Emergent Ventures and Y Combinator",Other,8000000.0,2018-08
+2018-08-16,Enakshi,Software,Ahmedabad,Secret,Seed,114811.0,2018-08
+2018-08-17,EazyDiner,Software,Gurgaon,Denlow Investment Trust and Beenext,Other,5850000.0,2018-08
+2018-08-20,Finzy,Finance,Bangalore,Secret,Seed,1000000.0,2018-08
+2018-08-20,RawPressery,Software,Mumbai,Alteria Capital,Debt,4800000.0,2018-08
+2018-08-22,Pi Ventures,Software,Bangalore,CDC Group plc ,Other,6000000.0,2018-08
+2018-08-22,Revv,Software,Gurgaon,"Hyundai, Edelweiss and Beenext, Dream Incubator, Sunjay Kapoor and Telama Investment",Other,14270000.0,2018-08
+2018-08-26,ZestMoney,Software,Bangalore,"Xiaomi,PayU, Ribbit Capital and Omidyar Network ",Other,13400000.0,2018-08
+2018-08-26,Shubh Loans,Finance,Bangalore,"Saama Capital, SRI Capital, Beenext, and Pravega Ventures",Other,4200000.0,2018-08
+2018-08-27,MyUpchar,Healthcare & Hospitality,Delhi,"Nexus Venture Partners, Omidyar Network and Shunwei Capital",Other,5000000.0,2018-08
+2018-08-28,Narvar,Software,Bangalore,Accel (formerly known as Accel Partners),Other,3000000.0,2018-08
+2018-08-30,True North,Finance,Mumbai,Secret,Other,600000000.0,2018-08
+2018-07-02,Biryani By Kilo,Software,Gurgaon,Ajay Relan and Vinay Mittal,Seed,1000000.0,2018-07
+2018-07-04,Anchanto,Software,Pune,MDI Ventures & Telkom Indonesia,Other,4000000.0,2018-07
+2018-07-06,PolicyBazaar,Software,Gurgaon,Info Edge (India) Ltd and Temasek,Other,27700000.0,2018-07
+2018-07-09,zippserv,Software,Bangalore,Info Edge (India) Ltd,Seed,440000.0,2018-07
+2018-07-09,Groww,Software,Bangalore,"Insignia Ventures Partners, Lightbridge Partners & Kairos",Seed,1100000.0,2018-07
+2018-07-10,Avenue Growth,Software,Gurgaon,"Avtar Monga, chief operating office at IDFC Bank, Aditya Malik & Others",Seed,437000.0,2018-07
+2018-07-10,Kinara Capital,Finance,Bangalore,ResponsAbility,Other,5000000.0,2018-07
+2018-07-10,Shop 101,Software,Mumbai,"Stellaris Venture Partners, Vy Capital, Raghunandan G, and Ramakant Sharma ",Other,5000000.0,2018-07
+2018-07-11,Sambandh,Software,Rourkela,Base of Pyramid Asia (BOPA) Pte Ltd,Other,2500000.0,2018-07
+2018-07-12,19th mile,Software,Gurgaon,"Rishi Vasudev, Excelsior Investments, Ritesh Vohra, Praveer Kumar, Prashant Gupta and Others",Seed,180000.0,2018-07
+2018-07-12,5th Vital,Healthcare & Hospitality,Bangalore,Brand Capital and Others,Seed,500000.0,2018-07
+2018-07-13,MEngage,Healthcare & Hospitality,Jaipur,"Siddharth Agarwal, Mahavir Sharma, Amit Singal, 100 Co-founders Lab and others.",Seed,175000.0,2018-07
+2018-07-17,Ofbusiness,Finance,Gurgaon,"Creation Investments, Falcon Edge, Matrix Partners India and Zodius Capital ",Other,29000000.0,2018-07
+2018-07-17,Cars24,Software,Gurgaon,"Kingsway FCI Fund, KCK Global & Others",Other,49700000.0,2018-07
+2018-07-18,The Ken,Software,Bangalore,Omidyar Network & Others,Seed,1500000.0,2018-07
+2018-07-19,Book My Show,Software,Mumbai,"TPG Growth, The Rise Fund & Others",Other,100000000.0,2018-07
+2018-07-20,HousingMan,Software,Bangalore,Secret,Seed,1500000.0,2018-07
+2018-07-21,PaySense,Software,Mumbai,PayU & Others,Other,18000000.0,2018-07
+2018-07-23,VTION,Software,Gurgaon,"AngelList, Rahul Khanna, Rajeev Arora and Ram Ramsundar.",Seed,280000.0,2018-07
+2018-07-23,Log9 Materials,Software,Bangalore,"Metaform Ventures, Hemant Luthra, Micro venture capital firm GEMS Partners and Others",Seed,436000.0,2018-07
+2018-07-24,kidovators,Education,Bangalore,Gray Matters,Seed,180000.0,2018-07
+2018-07-24,Digit,Software,Pune,Fairfax,Other,45000000.0,2018-07
+2018-07-25,Black Soil,Finance,Mumbai,"Allcargo Logistics, Navneet Education and Mahavir Agency",Other,17000000.0,2018-07
+2018-07-25,Trell,Software,Bangalore,"BeeNext , WEH Ventures and Sprout Ventures",Seed,1250000.0,2018-07
+2018-07-25,iqlect,Software,Bangalore,Ventureast and Exfinity,Seed,2500000.0,2018-07
+2018-07-26,Entropik,Software,Bangalore,"Bharat Innovation, IDFC-Parampara Capital, Arthavida Ventures, Jitendra Gupta & Others",Seed,1100000.0,2018-07
+2018-07-26,TheCapitalNet,Finance,Hyderabad,Lindwall Family Investments LLC (LFI),Other,500000.0,2018-07
+2018-07-30,Shuttl,Software,Gurgaon,Amazon Alexa Fund & Dentsu Ventures,Other,11000000.0,2018-07
+2018-07-30,Cure Fit,Software,Bangalore,"IDG Ventures, Accel Partners, Kalaari Capital and Others",Other,120000000.0,2018-07
+2018-07-31,Five Star Group,Finance,Chennai,"TPG, Norwest Venture Partners, Sequoia Capital & Matrix Partners",Other,100000000.0,2018-07
+2018-07-31,Healthsignz,Healthcare & Hospitality,Hyderabad,Kantilal Patel,Seed,5000000.0,2018-07
+2018-10-02,Origo Commodities India Pvt. Ltd,Logistics,Hyderabad,"Cooperative Oikocredit, Caspian and Hivos-Triodos Fund ",Seed,11000000.0,2018-10
+2018-10-04,Grover Zampa,Consumables,Mumbai,Ravi Viswanathan,Other,8200000.0,2018-10
+2018-10-05,Droom,Automobile,Gurgaon,ZigExN,Series E,3000000.0,2018-10
+2018-10-11,Innov8,Real Estate,Delhi,Credence Family Office,Seed,4000000.0,2018-10
+2018-10-12,Blackbuck,Logistics,Bangalore,Sequoia Capital India,Other,14680000.0,2018-10
+2018-10-12,LetsTransport,Logistics,Bangalore,Fosun International,Series C,12000000.0,2018-10
+2018-09-01,Netmeds,Software,Chennai,"Sistema Asia Fund, Sistema JSFC and Tanncam Investment",Other,35000000.0,2018-09
+2018-09-03,Udaan,Logistics,Bangalore,DST Global and Lightspeed Venture Partners’ global fund.,Other,225000000.0,2018-09
+2018-09-03,Daily hunt,Software,Bangalore,Falcon Edge,Other,6390000.0,2018-09
+2018-09-04,3HCare,Healthcare & Hospitality,Delhi,Secret,Seed,1000000.0,2018-09
+2018-09-05,Nykaa,Software,Mumbai,Lighthouse,Other,157200000.0,2018-09
+2018-09-06,Dream11,Software,Mumbai,"Tencent, Kalaari Capital and Private equity firm Multiples Alternate Asset Management",Other,100000000.0,2018-09
+2018-09-10,MamaEarth,Healthcare & Hospitality,Gurgaon,Stellaris Ventures & Others,Other,4000000.0,2018-09
+2018-09-11,AutoGrid,Software,Bangalore,"CLP Holdings Group, Innogy, Ørstead, and Tenaska",Other,32000000.0,2018-09
+2018-09-11,Pharmeasy,Software,Mumbai,InnoVen Capital,Debt,5500000.0,2018-09
+2018-09-11,Upwards,Finance,Mumbai,"Shunwei Capital,Quotient, Mayfield & Others",Other,5000000.0,2018-09
+2018-09-12,Kissht,Finance,Mumbai,"Vertex Ventures Southeast Asia (SEA) and India and Sistema Asia Fund, Fosun RZ Capital, Ventureast, and Endiya Partners.
+
+",Other,30000000.0,2018-09
+2018-08-01,dishq,Consumables,Bangalore,"Farm To Fork, Arts Alliance, The Syndicate Fund, Sven Hensen, Zeroth and Artesian Venture Partners ",Seed,400000.0,2018-08
+2018-08-02,Samosa Labs,Software,Hyderabad,Xiaomi and Sequoia Capital India,Other,7000000.0,2018-08
+2018-08-03,ZiffyHomes,Software,Gurgaon,Y Combinator,Other,120000.0,2018-08
+2018-08-07,My OmNamo,Software,Mumbai,Secret,Seed,1000000.0,2018-08
+2018-08-07,ShopX,Software,Bangalore,Fung Strategic Holdings,Other,35000000.0,2018-08
+2018-08-07,MakeMyTrip,Software,Gurgaon,MakeMyTrip Limited,Other,10000000.0,2018-08
+2018-08-08,Hansel io,Software,Bangalore,Vertex Ventures,Seed,4000000.0,2018-08
+2018-08-08,Metro Bikes,Software,Bangalore,"Sequoia Capital India Advisors, Accel Partners and G Raghunandan",Other,12200000.0,2018-08
+2018-08-08,Phone Pe,Software,Bangalore,Flipkart,Other,66000000.0,2018-08
+2018-08-09,quizizz,Education,Bangalore,"Nexus Venture Partners, Prime Venture Partners and Others",Seed,3000000.0,2018-08
+2018-08-09,Happy EMI,Finance,Bangalore,AJ Ventures and Jain International Trade Organisation (JITO),Seed,1000000.0,2018-08
+2018-08-13,Inthree,Software,Chennai,"Ventureast, Orios Venture Partners and the IAN Fund",Seed,4000000.0,2018-08
+2018-08-13,Observe AI,Software,Bangalore,"Nexus Venture Partners, MGV, Liquid 2 Ventures, Hack VC, Emergent Ventures and Y Combinator",Other,8000000.0,2018-08
+2018-08-16,Enakshi,Software,Ahmedabad,Secret,Seed,114811.0,2018-08
+2018-08-17,EazyDiner,Software,Gurgaon,Denlow Investment Trust and Beenext,Other,5850000.0,2018-08
+2018-08-20,Finzy,Finance,Bangalore,Secret,Seed,1000000.0,2018-08
+2018-08-20,RawPressery,Software,Mumbai,Alteria Capital,Debt,4800000.0,2018-08
+2018-08-22,Pi Ventures,Software,Bangalore,CDC Group plc ,Other,6000000.0,2018-08
+2018-08-22,Revv,Software,Gurgaon,"Hyundai, Edelweiss and Beenext, Dream Incubator, Sunjay Kapoor and Telama Investment",Other,14270000.0,2018-08
+2018-08-26,ZestMoney,Software,Bangalore,"Xiaomi,PayU, Ribbit Capital and Omidyar Network ",Other,13400000.0,2018-08
+2018-08-26,Shubh Loans,Finance,Bangalore,"Saama Capital, SRI Capital, Beenext, and Pravega Ventures",Other,4200000.0,2018-08
+2018-08-27,MyUpchar,Healthcare & Hospitality,Delhi,"Nexus Venture Partners, Omidyar Network and Shunwei Capital",Other,5000000.0,2018-08
+2018-08-28,Narvar,Software,Bangalore,Accel (formerly known as Accel Partners),Other,3000000.0,2018-08
+2018-08-30,True North,Finance,Mumbai,Secret,Other,600000000.0,2018-08
+2018-07-02,Biryani By Kilo,Software,Gurgaon,Ajay Relan and Vinay Mittal,Seed,1000000.0,2018-07
+2018-07-04,Anchanto,Software,Pune,MDI Ventures & Telkom Indonesia,Other,4000000.0,2018-07
+2018-07-06,PolicyBazaar,Software,Gurgaon,Info Edge (India) Ltd and Temasek,Other,27700000.0,2018-07
+2018-07-09,zippserv,Software,Bangalore,Info Edge (India) Ltd,Seed,440000.0,2018-07
+2018-07-09,Groww,Software,Bangalore,"Insignia Ventures Partners, Lightbridge Partners & Kairos",Seed,1100000.0,2018-07
+2018-07-10,Avenue Growth,Software,Gurgaon,"Avtar Monga, chief operating office at IDFC Bank, Aditya Malik & Others",Seed,437000.0,2018-07
+2018-07-10,Kinara Capital,Finance,Bangalore,ResponsAbility,Other,5000000.0,2018-07
+2018-07-10,Shop 101,Software,Mumbai,"Stellaris Venture Partners, Vy Capital, Raghunandan G, and Ramakant Sharma ",Other,5000000.0,2018-07
+2018-07-11,Sambandh,Software,Rourkela,Base of Pyramid Asia (BOPA) Pte Ltd,Other,2500000.0,2018-07
+2018-07-12,19th mile,Software,Gurgaon,"Rishi Vasudev, Excelsior Investments, Ritesh Vohra, Praveer Kumar, Prashant Gupta and Others",Seed,180000.0,2018-07
+2018-07-12,5th Vital,Healthcare & Hospitality,Bangalore,Brand Capital and Others,Seed,500000.0,2018-07
+2018-07-13,MEngage,Healthcare & Hospitality,Jaipur,"Siddharth Agarwal, Mahavir Sharma, Amit Singal, 100 Co-founders Lab and others.",Seed,175000.0,2018-07
+2018-07-17,Ofbusiness,Finance,Gurgaon,"Creation Investments, Falcon Edge, Matrix Partners India and Zodius Capital ",Other,29000000.0,2018-07
+2018-07-17,Cars24,Software,Gurgaon,"Kingsway FCI Fund, KCK Global & Others",Other,49700000.0,2018-07
+2018-07-18,The Ken,Software,Bangalore,Omidyar Network & Others,Seed,1500000.0,2018-07
+2018-07-19,Book My Show,Software,Mumbai,"TPG Growth, The Rise Fund & Others",Other,100000000.0,2018-07
+2018-07-20,HousingMan,Software,Bangalore,Secret,Seed,1500000.0,2018-07
+2018-07-21,PaySense,Software,Mumbai,PayU & Others,Other,18000000.0,2018-07
+2018-07-23,VTION,Software,Gurgaon,"AngelList, Rahul Khanna, Rajeev Arora and Ram Ramsundar.",Seed,280000.0,2018-07
+2018-07-23,Log9 Materials,Software,Bangalore,"Metaform Ventures, Hemant Luthra, Micro venture capital firm GEMS Partners and Others",Seed,436000.0,2018-07
+2018-07-24,kidovators,Education,Bangalore,Gray Matters,Seed,180000.0,2018-07
+2018-07-24,Digit,Software,Pune,Fairfax,Other,45000000.0,2018-07
+2018-07-25,Black Soil,Finance,Mumbai,"Allcargo Logistics, Navneet Education and Mahavir Agency",Other,17000000.0,2018-07
+2018-07-25,Trell,Software,Bangalore,"BeeNext , WEH Ventures and Sprout Ventures",Seed,1250000.0,2018-07
+2018-07-25,iqlect,Software,Bangalore,Ventureast and Exfinity,Seed,2500000.0,2018-07
+2018-07-26,Entropik,Software,Bangalore,"Bharat Innovation, IDFC-Parampara Capital, Arthavida Ventures, Jitendra Gupta & Others",Seed,1100000.0,2018-07
+2018-07-26,TheCapitalNet,Finance,Hyderabad,Lindwall Family Investments LLC (LFI),Other,500000.0,2018-07
+2018-07-30,Shuttl,Software,Gurgaon,Amazon Alexa Fund & Dentsu Ventures,Other,11000000.0,2018-07
+2018-07-30,Cure Fit,Software,Bangalore,"IDG Ventures, Accel Partners, Kalaari Capital and Others",Other,120000000.0,2018-07
+2018-07-31,Five Star Group,Finance,Chennai,"TPG, Norwest Venture Partners, Sequoia Capital & Matrix Partners",Other,100000000.0,2018-07
+2018-07-31,Healthsignz,Healthcare & Hospitality,Hyderabad,Kantilal Patel,Seed,5000000.0,2018-07
+2018-10-02,Origo Commodities India Pvt. Ltd,Logistics,Hyderabad,"Cooperative Oikocredit, Caspian and Hivos-Triodos Fund ",Seed,11000000.0,2018-10
+2018-10-04,Grover Zampa,Consumables,Mumbai,Ravi Viswanathan,Other,8200000.0,2018-10
+2018-10-05,Droom,Automobile,Gurgaon,ZigExN,Series E,3000000.0,2018-10
+2018-10-11,Innov8,Real Estate,Delhi,Credence Family Office,Seed,4000000.0,2018-10
+2018-10-12,Blackbuck,Logistics,Bangalore,Sequoia Capital India,Other,14680000.0,2018-10
+2018-10-12,LetsTransport,Logistics,Bangalore,Fosun International,Series C,12000000.0,2018-10
+2018-09-01,Netmeds,Software,Chennai,"Sistema Asia Fund, Sistema JSFC and Tanncam Investment",Other,35000000.0,2018-09
+2018-09-03,Udaan,Logistics,Bangalore,DST Global and Lightspeed Venture Partners’ global fund.,Other,225000000.0,2018-09
+2018-09-03,Daily hunt,Software,Bangalore,Falcon Edge,Other,6390000.0,2018-09
+2018-09-04,3HCare,Healthcare & Hospitality,Delhi,Secret,Seed,1000000.0,2018-09
+2018-09-05,Nykaa,Software,Mumbai,Lighthouse,Other,157200000.0,2018-09
+2018-09-06,Dream11,Software,Mumbai,"Tencent, Kalaari Capital and Private equity firm Multiples Alternate Asset Management",Other,100000000.0,2018-09
+2018-09-10,MamaEarth,Healthcare & Hospitality,Gurgaon,Stellaris Ventures & Others,Other,4000000.0,2018-09
+2018-09-11,AutoGrid,Software,Bangalore,"CLP Holdings Group, Innogy, Ørstead, and Tenaska",Other,32000000.0,2018-09
+2018-09-11,Pharmeasy,Software,Mumbai,InnoVen Capital,Debt,5500000.0,2018-09
+2018-09-11,Upwards,Finance,Mumbai,"Shunwei Capital,Quotient, Mayfield & Others",Other,5000000.0,2018-09
+2018-09-12,Kissht,Finance,Mumbai,"Vertex Ventures Southeast Asia (SEA) and India and Sistema Asia Fund, Fosun RZ Capital, Ventureast, and Endiya Partners.
+
+",Other,30000000.0,2018-09
+2018-08-01,dishq,Consumables,Bangalore,"Farm To Fork, Arts Alliance, The Syndicate Fund, Sven Hensen, Zeroth and Artesian Venture Partners ",Seed,400000.0,2018-08
+2018-08-02,Samosa Labs,Software,Hyderabad,Xiaomi and Sequoia Capital India,Other,7000000.0,2018-08
+2018-08-03,ZiffyHomes,Software,Gurgaon,Y Combinator,Other,120000.0,2018-08
+2018-08-07,My OmNamo,Software,Mumbai,Secret,Seed,1000000.0,2018-08
+2018-08-07,ShopX,Software,Bangalore,Fung Strategic Holdings,Other,35000000.0,2018-08
+2018-08-07,MakeMyTrip,Software,Gurgaon,MakeMyTrip Limited,Other,10000000.0,2018-08
+2018-08-08,Hansel io,Software,Bangalore,Vertex Ventures,Seed,4000000.0,2018-08
+2018-08-08,Metro Bikes,Software,Bangalore,"Sequoia Capital India Advisors, Accel Partners and G Raghunandan",Other,12200000.0,2018-08
+2018-08-08,Phone Pe,Software,Bangalore,Flipkart,Other,66000000.0,2018-08
+2018-08-09,quizizz,Education,Bangalore,"Nexus Venture Partners, Prime Venture Partners and Others",Seed,3000000.0,2018-08
+2018-08-09,Happy EMI,Finance,Bangalore,AJ Ventures and Jain International Trade Organisation (JITO),Seed,1000000.0,2018-08
+2018-08-13,Inthree,Software,Chennai,"Ventureast, Orios Venture Partners and the IAN Fund",Seed,4000000.0,2018-08
+2018-08-13,Observe AI,Software,Bangalore,"Nexus Venture Partners, MGV, Liquid 2 Ventures, Hack VC, Emergent Ventures and Y Combinator",Other,8000000.0,2018-08
+2018-08-16,Enakshi,Software,Ahmedabad,Secret,Seed,114811.0,2018-08
+2018-08-17,EazyDiner,Software,Gurgaon,Denlow Investment Trust and Beenext,Other,5850000.0,2018-08
+2018-08-20,Finzy,Finance,Bangalore,Secret,Seed,1000000.0,2018-08
+2018-08-20,RawPressery,Software,Mumbai,Alteria Capital,Debt,4800000.0,2018-08
+2018-08-22,Pi Ventures,Software,Bangalore,CDC Group plc ,Other,6000000.0,2018-08
+2018-08-22,Revv,Software,Gurgaon,"Hyundai, Edelweiss and Beenext, Dream Incubator, Sunjay Kapoor and Telama Investment",Other,14270000.0,2018-08
+2018-08-26,ZestMoney,Software,Bangalore,"Xiaomi,PayU, Ribbit Capital and Omidyar Network ",Other,13400000.0,2018-08
+2018-08-26,Shubh Loans,Finance,Bangalore,"Saama Capital, SRI Capital, Beenext, and Pravega Ventures",Other,4200000.0,2018-08
+2018-08-27,MyUpchar,Healthcare & Hospitality,Delhi,"Nexus Venture Partners, Omidyar Network and Shunwei Capital",Other,5000000.0,2018-08
+2018-08-28,Narvar,Software,Bangalore,Accel (formerly known as Accel Partners),Other,3000000.0,2018-08
+2018-08-30,True North,Finance,Mumbai,Secret,Other,600000000.0,2018-08
+2018-07-02,Biryani By Kilo,Software,Gurgaon,Ajay Relan and Vinay Mittal,Seed,1000000.0,2018-07
+2018-07-04,Anchanto,Software,Pune,MDI Ventures & Telkom Indonesia,Other,4000000.0,2018-07
+2018-07-06,PolicyBazaar,Software,Gurgaon,Info Edge (India) Ltd and Temasek,Other,27700000.0,2018-07
+2018-07-09,zippserv,Software,Bangalore,Info Edge (India) Ltd,Seed,440000.0,2018-07
+2018-07-09,Groww,Software,Bangalore,"Insignia Ventures Partners, Lightbridge Partners & Kairos",Seed,1100000.0,2018-07
+2018-07-10,Avenue Growth,Software,Gurgaon,"Avtar Monga, chief operating office at IDFC Bank, Aditya Malik & Others",Seed,437000.0,2018-07
+2018-07-10,Kinara Capital,Finance,Bangalore,ResponsAbility,Other,5000000.0,2018-07
+2018-07-10,Shop 101,Software,Mumbai,"Stellaris Venture Partners, Vy Capital, Raghunandan G, and Ramakant Sharma ",Other,5000000.0,2018-07
+2018-07-11,Sambandh,Software,Rourkela,Base of Pyramid Asia (BOPA) Pte Ltd,Other,2500000.0,2018-07
+2018-07-12,19th mile,Software,Gurgaon,"Rishi Vasudev, Excelsior Investments, Ritesh Vohra, Praveer Kumar, Prashant Gupta and Others",Seed,180000.0,2018-07
+2018-07-12,5th Vital,Healthcare & Hospitality,Bangalore,Brand Capital and Others,Seed,500000.0,2018-07
+2018-07-13,MEngage,Healthcare & Hospitality,Jaipur,"Siddharth Agarwal, Mahavir Sharma, Amit Singal, 100 Co-founders Lab and others.",Seed,175000.0,2018-07
+2018-07-17,Ofbusiness,Finance,Gurgaon,"Creation Investments, Falcon Edge, Matrix Partners India and Zodius Capital ",Other,29000000.0,2018-07
+2018-07-17,Cars24,Software,Gurgaon,"Kingsway FCI Fund, KCK Global & Others",Other,49700000.0,2018-07
+2018-07-18,The Ken,Software,Bangalore,Omidyar Network & Others,Seed,1500000.0,2018-07
+2018-07-19,Book My Show,Software,Mumbai,"TPG Growth, The Rise Fund & Others",Other,100000000.0,2018-07
+2018-07-20,HousingMan,Software,Bangalore,Secret,Seed,1500000.0,2018-07
+2018-07-21,PaySense,Software,Mumbai,PayU & Others,Other,18000000.0,2018-07
+2018-07-23,VTION,Software,Gurgaon,"AngelList, Rahul Khanna, Rajeev Arora and Ram Ramsundar.",Seed,280000.0,2018-07
+2018-07-23,Log9 Materials,Software,Bangalore,"Metaform Ventures, Hemant Luthra, Micro venture capital firm GEMS Partners and Others",Seed,436000.0,2018-07
+2018-07-24,kidovators,Education,Bangalore,Gray Matters,Seed,180000.0,2018-07
+2018-07-24,Digit,Software,Pune,Fairfax,Other,45000000.0,2018-07
+2018-07-25,Black Soil,Finance,Mumbai,"Allcargo Logistics, Navneet Education and Mahavir Agency",Other,17000000.0,2018-07
+2018-07-25,Trell,Software,Bangalore,"BeeNext , WEH Ventures and Sprout Ventures",Seed,1250000.0,2018-07
+2018-07-25,iqlect,Software,Bangalore,Ventureast and Exfinity,Seed,2500000.0,2018-07
+2018-07-26,Entropik,Software,Bangalore,"Bharat Innovation, IDFC-Parampara Capital, Arthavida Ventures, Jitendra Gupta & Others",Seed,1100000.0,2018-07
+2018-07-26,TheCapitalNet,Finance,Hyderabad,Lindwall Family Investments LLC (LFI),Other,500000.0,2018-07
+2018-07-30,Shuttl,Software,Gurgaon,Amazon Alexa Fund & Dentsu Ventures,Other,11000000.0,2018-07
+2018-07-30,Cure Fit,Software,Bangalore,"IDG Ventures, Accel Partners, Kalaari Capital and Others",Other,120000000.0,2018-07
+2018-07-31,Five Star Group,Finance,Chennai,"TPG, Norwest Venture Partners, Sequoia Capital & Matrix Partners",Other,100000000.0,2018-07
+2018-07-31,Healthsignz,Healthcare & Hospitality,Hyderabad,Kantilal Patel,Seed,5000000.0,2018-07
